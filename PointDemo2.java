@@ -15,7 +15,8 @@ public static void main(String[] args)
    // Create a Point object with an
    // Integer x coordinate and a Double
    // y coordinate.
-   Point myPoint = new Point(x, y);
+   Point myPoint = new Point(x, "aa");
+   Point2 aPoint = new Point2(x, x);
    
    // Display the object's X and Y
    // coordinate values.
